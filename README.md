@@ -1,4 +1,5 @@
-# Welcome to your Expo app 👋
+# kura_plus
+kura plus mobile react native app
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
